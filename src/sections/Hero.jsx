@@ -18,7 +18,7 @@ const Hero = () => {
                 We designed nilAI Video Editor to be an easy to use, quick to learn and surprisingly powerful.
             </p>
             <LinkScroll to="features" offset={-100} spy smooth>
-                <Button icon="/images/zap.svg">Try it now</Button>
+                <Button icon="./images/zap.svg">Try it now</Button>
             </LinkScroll>
           </div>
 
